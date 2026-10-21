@@ -1,0 +1,26 @@
+# Windows / 系统垃圾
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.lnk
+*.tmp
+*.temp
+~$*
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 临时与日志
+*.log
+.cache/

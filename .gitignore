@@ -24,3 +24,6 @@ venv/
 # 临时与日志
 *.log
 .cache/
+
+# 本地插件源码（dsh-whale-widget 以 link 方式安装，不能移动或删除）
+plugins/

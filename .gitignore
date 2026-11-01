@@ -38,3 +38,6 @@ connect-wechatagent.ps1
 *.msi
 *.zip
 新建 文本文档.txt
+
+# 第三方油猴脚本（外部项目，仅本地使用）
+学习通刷课助手.user.js
